@@ -26,7 +26,7 @@ Currently bridging the gap between **Algorithmic Problem Solving** (Codeforces E
 `Linux/WSL` `OS Internals` `TCP/IP Networking` `Socket Programming`  
 `Lock-free Concurrency` `Multithreading` `Memory Management`
 
-**Tools & Devops:**  
+**Tools & DevOps:**  
 `Git` `GNU Make` `GDB` `Bash` `VS Code`
 
 ---
@@ -41,15 +41,3 @@ Currently bridging the gap between **Algorithmic Problem Solving** (Codeforces E
 ### 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/abhishekksl)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/abhishekksl)
-
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekksl&theme=tokyonight" alt="GitHub Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekksl&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekksl&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
