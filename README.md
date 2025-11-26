@@ -1,50 +1,44 @@
 ### 👋 Hi, I'm **Abhishek Kaushal**
 
-💻 I enjoy building **high-performance & scalable system software**  
-🔹 **C++ • OS • Networking • Backend • Linux/WSL**  
-🚀 Currently learning **Distributed Systems & Performance Engineering**
+🚀 **Systems Engineer | C++ Specialist | IIT (ISM) Dhanbad**
+
+I specialize in building **high-performance, low-latency system software**. My focus lies in Operating Systems, Network Programming, and Lock-free Concurrency.
+
+Currently bridging the gap between **Algorithmic Problem Solving** (Codeforces Expert) and **Real-world Systems Engineering**.
 
 ---
 
-### 🔥 Systems Projects (current & upcoming)
-| Project | Area | Status |
-|--------|-------|--------|
-| ⚡ **High-Performance LRU & LFU Cache (C++17)** | Systems + Performance | ✔ Completed |
-| 🌐 **HTTP Load Balancer** | Networking + Backend | 🔄 In Progress |
-| 🐚 **Mini-Shell** | Operating Systems + Process Control | 🔄 In Progress |
-
-🔗 Strongest repo so far:  
-https://github.com/abhishekksl/lru-lfu-cache
+### 🛠️ Featured Systems Projects
+| Project | Domain | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| ⚖️ **[Multi-Threaded TCP Load Balancer](https://github.com/abhishekksl/load-balancer)** | Networking | `C++17` `POSIX Sockets` `Atomics` `Multithreading` | ✅ **Completed** |
+| ⚡ **[High-Performance LRU/LFU Cache](https://github.com/abhishekksl/lru-lfu-cache)** | Performance | `C++17` `Memory Management` `O(1) Algos` | ✅ **Completed** |
+| 🐚 **[Custom Mini-Shell](https://github.com/abhishekksl/mini-shell)** | OS Internals | `Linux Kernel API` `IPC` `Process Control` | ✅ **Completed** |
 
 ---
 
-### 🚀 Tech Stack
+### 💻 Technical Arsenal
+
 **Languages:**  
-`C++` `Python` `JavaScript` `SQL`
+![C++](https://img.shields.io/badge/C++17-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-**Systems & Backend:**  
-`Linux/WSL` `OS Internals` `Networking` `Load Balancing`  
-`REST APIs` `Concurrency` `Multithreading`
+**Systems Engineering:**  
+`Linux/WSL` `OS Internals` `TCP/IP Networking` `Socket Programming`  
+`Lock-free Concurrency` `Multithreading` `Memory Management`
 
-**Core CS:**  
-`Data Structures` `Algorithms` `Memory Management` `Processes / Threads`
-
----
-
-### 🧠 What I'm learning right now
-- Load-balancing algorithms (Round-Robin, Least-Connections, IP-hash)
-- System calls & process management for Mini-Shell
-- TCP basics & epoll I/O for scalable backend development
+**Tools & Devops:**  
+`Git` `GNU Make` `GDB` `Bash` `VS Code`
 
 ---
 
-### 📌 Competitive Programming Profiles
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?logo=Codeforces)](https://codeforces.com/profile/ab_ubs_25)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=LeetCode)](https://leetcode.com/u/Abhishekkaushal23/)
+### 🧠 Current Focus
+- Deep diving into **Distributed Systems** patterns.
+- Exploring **High-Frequency Trading (HFT)** architecture.
+- Optimizing C++ code for **L1/L2 Cache Locality**.
 
 ---
 
-### 🔗 Socials
+### 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/abhishekksl)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/abhishekksl)
 
@@ -56,35 +50,6 @@ https://github.com/abhishekksl/lru-lfu-cache
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekksl&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekksl&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekksl&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekksl&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-
----
-
-### 🎯 Roadmap
-- [x] High-Performance Cache (C++)
-- [ ] Load Balancer (Networking)
-- [ ] Mini-Shell (OS)
-- [ ] Multi-threaded / Sharded Cache
-- [ ] RPC fundamentals
-
----
-
-⭐ _Thanks for visiting! If you're working on systems / C++ / backend, feel free to connect or collaborate._
-
-
-<!--
-**abhishekksl/abhishekksl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
